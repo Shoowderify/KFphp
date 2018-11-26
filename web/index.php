@@ -88,7 +88,10 @@
             <div id="profile-pics">
               
             </div>   
-            <h1 id="header-message">En progreso</h1>
+            <h1 id="header-message"> <a href="lux.php">
+<img border="0" alt="W3Schools" src="images/kf.png" width="100" height="100">
+</a>
+</h1>
         </div>
 </body>
 </html>
