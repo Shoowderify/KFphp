@@ -88,9 +88,9 @@
             <div id="profile-pics">
               
             </div>   
-            <h1 id="header-message"> <a href="lux.php">
-<img border="0" alt="W3Schools" src="images/kf.png" width="100" height="100">
-</a>
+            <h1 id="header-message">
+			<a href="lux.php"><img border="0" alt="W3Schools" src="images/kf.png" width="100" height="100"></a>
+			<a href="vlog/vlog.html"><img border="0" alt="W3Schools" src="vlog/imagenes/showie.png" width="100" height="100"></a>
 </h1>
         </div>
 </body>
